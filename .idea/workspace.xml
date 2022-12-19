@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="75b0bdcd-8d05-4eb3-8b85-8695d18c7863" name="Changes" comment="remove idea folder">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/homework3.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    <list default="true" id="75b0bdcd-8d05-4eb3-8b85-8695d18c7863" name="Changes" comment="Edit Personal details">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +61,7 @@
       <workItem from="1670579150323" duration="2716000" />
       <workItem from="1670605367281" duration="3476000" />
       <workItem from="1670866934042" duration="657000" />
-      <workItem from="1671464018872" duration="1942000" />
+      <workItem from="1671464018872" duration="2250000" />
     </task>
     <task id="LOCAL-00001" summary="remove idea folder">
       <created>1671465387696</created>
@@ -74,7 +70,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671465387696</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Edit Personal details">
+      <created>1671466080797</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671466080797</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Edit Personal details">
+      <created>1671466122980</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671466122980</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Edit Personal details">
+      <created>1671466130449</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671466130449</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="remove idea folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="remove idea folder" />
+    <MESSAGE value="Edit Personal details" />
+    <option name="LAST_COMMIT_MESSAGE" value="Edit Personal details" />
   </component>
 </project>
